@@ -20,7 +20,7 @@
 ![image](https://raw.githubusercontent.com/itsmismi/cypress-new/refs/heads/main/base_url.png)
 
 2. Применение хуков beforeEach и afterEach
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/hooks.png)
+![image](https://raw.githubusercontent.com/itsmismi/cypress-new/refs/heads/main/bef.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
 ![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/user_data.png)
