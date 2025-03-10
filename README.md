@@ -23,7 +23,7 @@
 ![image](https://raw.githubusercontent.com/itsmismi/cypress-new/refs/heads/main/bef.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/user_data.png)
+![image](https://raw.githubusercontent.com/itsmismi/cypress-new/refs/heads/main/data.png)
 
 4. Каждая страница описана в формате объекта с локаторами
 ![image](https://raw.githubusercontent.com/itsmismi/cypress-new/refs/heads/main/locators.png)
