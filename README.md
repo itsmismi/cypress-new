@@ -26,7 +26,7 @@
 ![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/user_data.png)
 
 4. Каждая страница описана в формате объекта с локаторами
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/locators.png)
+![image](https://raw.githubusercontent.com/itsmismi/cypress-new/refs/heads/main/locators.png)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
